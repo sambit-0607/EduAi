@@ -92,8 +92,3 @@ Click the image above to watch EduAI in action!
 
 ---
 
-## 📌 How to Run  
-
-1️⃣ **Clone the repository:**  
-```bash
-git clone https://github.com/HarshiSharma04/EduAI.git
